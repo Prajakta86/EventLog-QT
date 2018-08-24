@@ -5,7 +5,7 @@
 #-------------------------------------------------
 
 QT       += core gui widgets
-QT += serialport
+
 
 TARGET = testPython
 TEMPLATE = app
